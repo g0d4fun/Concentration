@@ -57,11 +57,19 @@
 				051C904220E83DF7008F123F /* AppDelegate.swift */,
 				051C904420E83DF7008F123F /* ViewController.swift */,
 				051C904620E83DF7008F123F /* Main.storyboard */,
-				051C904920E83DFC008F123F /* Assets.xcassets */,
-				051C904B20E83DFC008F123F /* LaunchScreen.storyboard */,
+				051C905420E83F6E008F123F /* Supporting Files */,
 				051C904E20E83DFC008F123F /* Info.plist */,
 			);
 			path = Concentration;
+			sourceTree = "<group>";
+		};
+		051C905420E83F6E008F123F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				051C904920E83DFC008F123F /* Assets.xcassets */,
+				051C904B20E83DFC008F123F /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
